@@ -60,7 +60,7 @@ color:rgb(241, 236, 227);
 }
 
 .background{
-    background: rgba(0,0,0,0.5) url('../../images/background.jpg');
+    background: rgba(0,0,0,0.5) url('background.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
